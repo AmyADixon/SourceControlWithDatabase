@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceControlWithDatabase", "SourceControlWithDatabase\SourceControlWithDatabase.csproj", "{68ADC4FC-549C-40F1-98C1-8BA4F578606A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68ADC4FC-549C-40F1-98C1-8BA4F578606A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ADC4FC-549C-40F1-98C1-8BA4F578606A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68ADC4FC-549C-40F1-98C1-8BA4F578606A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ADC4FC-549C-40F1-98C1-8BA4F578606A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069586BC-1D37-42CB-BEA8-435E4D6430A1}
+	EndGlobalSection
+EndGlobal
